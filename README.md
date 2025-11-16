@@ -1,23 +1,19 @@
 # eSportHub
 
-## Project Description
-eSportHub is a website where users can track eSport events, players, and teams in real time.
+## Projekt Lényege
+eSportHub egy olyan szolgáltatás, ahol felhasználók követhetnek eSport eventeket, játékosokat, és csapatokat valós időben.
 
-## Menu
+## Menük
 - Home
-- Events
-- Players
-- Games
+- Eventek
+- Játékosok
+- Játékok
 
-## Planned Pages
-- Main page
-- Game list
-- Player profiles
-
-## Sources
-- Text content: descriptions for pages and players
-- Images: logos, icons, screenshots and/or other visual assets
-- Design: wireframes, layout sketches,
-
+## Közreműködők
+<pre>
+@Travis-Scooter
+@Hyhkelilc
+</pre>
+  
 ## Trello
-Trello board link: https://trello.com/b/xwjrGxjq/esporthub-project
+Trello projekt link: https://trello.com/b/xwjrGxjq/esporthub-project
