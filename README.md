@@ -15,5 +15,4 @@ eSportHub egy olyan szolgáltatás, ahol felhasználók követhetnek eSport even
 @Hyhkelilc
 </pre>
   
-## Trello
-Trello projekt link: https://trello.com/b/xwjrGxjq/esporthub-project
+## [Trello](https://trello.com/b/xwjrGxjq/esporthub-project)
