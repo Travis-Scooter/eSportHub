@@ -14,5 +14,6 @@ eSportHub egy olyan szolgáltatás, ahol felhasználók követhetnek eSport even
 @Travis-Scooter
 @Hyhkelilc
 </pre>
-  
-## [Trello](https://trello.com/b/xwjrGxjq/esporthub-project)
+
+# [Live Demo](https://travis-scooter.github.io/eSportHub/Website)
+# [Trello](https://trello.com/b/xwjrGxjq/esporthub-project)
