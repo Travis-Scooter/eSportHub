@@ -1,3 +1,19 @@
 # eSportHub
 
-This is a service that allows you to see and track eSport events, players, games, and more in real time.
+## Projekt Lényege
+eSportHub egy olyan szolgáltatás, ahol felhasználók követhetnek eSport eventeket, játékosokat, és csapatokat valós időben.
+
+## Menük
+- Home
+- Eventek
+- Játékosok
+- Játékok
+
+## Közreműködők
+<pre>
+@Travis-Scooter
+@Hyhkelilc
+</pre>
+
+# [Live Demo](https://travis-scooter.github.io/eSportHub/Website)
+# [Trello](https://trello.com/b/xwjrGxjq/esporthub-project)

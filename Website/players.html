@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Játékosok - eSportHub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="eSportHub Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="events.html">Eventek</a></li>
+                <li><a href="players.html">Játékosok</a></li>
+                <li><a href="games.html">Játékok</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="page-container">
+        <aside class="sorting-panel">
+            <h3>Szűrő opciók</h3>
+            <label for="sort-players">Rendezés:</label>
+            <select id="sort-players">
+                <option value="rank">Rang szerint</option>
+                <option value="wins">Nyert meccsek szerint</option>
+            </select>
+        </aside>
+
+        <section class="player-list">
+            <h1>Játékosok</h1>
+            <p>Discover the top players in the eSports scene.</p>
+            <div class="player-item">
+                <h2>Player 1</h2>
+                <p>Details about Player 1</p>
+            </div>
+            <div class="player-item">
+                <h2>Player 2</h2>
+                <p>Details about Player 2</p>
+            </div>
+            <div class="player-item">
+                <h2>Player 3</h2>
+                <p>Details about Player 3</p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 eSportHub</p>
+    </footer>
+</body>
+</html>
